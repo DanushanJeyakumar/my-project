@@ -22,3 +22,16 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# macOS junk
+.DS_Store
+._*
+
+# build outputs
+dist/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+node_modules/
